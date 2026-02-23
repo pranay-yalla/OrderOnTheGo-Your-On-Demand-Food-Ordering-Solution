@@ -1,0 +1,23 @@
+body {
+  margin: 0;
+  font-family: Arial,
+    sans-serif;
+    background-color: #f4f6f8;
+      -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+p{
+  color:#555;
+}
+button{
+  background-color: #4a90e2;
+  color: white;
+  padding: 8px 14px;
+  border-radius: 5px;
+  cursor: pointer
+  ;
+}
+button:hover
+{
+  background-color: #357abd;
+}
